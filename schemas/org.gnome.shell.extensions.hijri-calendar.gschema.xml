@@ -20,6 +20,11 @@
       <summary>Gregorian date format</summary>
       <description>Gregorian date format</description>
     </key>
+    <key name="hanafi-asr" type="b">
+      <default>true</default>
+      <summary>Use Hanafi Asr Time</summary>
+      <description>Use Hanafi Asr Time that differs from other Madhhab.</description>
+    </key>
     <key name="event-world" type="b">
       <default>true</default>
       <summary>Display official international events</summary>
